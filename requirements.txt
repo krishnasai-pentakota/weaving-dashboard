@@ -1,0 +1,12 @@
+# Pinned to what this was built and tested against. The factory PC has no
+# reliable internet, so whatever is installed on setup day is what it will run
+# for a long time; pinning means a reinstall two years from now behaves the
+# same way rather than pulling a version that has moved on.
+streamlit==1.63.0
+pandas==3.0.2
+numpy==2.4.4
+plotly==7.0.0
+psycopg2-binary==2.9.13
+SQLAlchemy==2.0.53
+openpyxl==3.1.5
+matplotlib==3.11.2
